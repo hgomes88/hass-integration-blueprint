@@ -41,11 +41,11 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 
 ***
 
-[integration_blueprint]: https://github.com/ludeeus/integration_blueprint
-[buymecoffee]: https://www.buymeacoffee.com/ludeeus
+[integration_blueprint]: https://github.com/hgomes88/hass-integration-blueprint
+[buymecoffee]: https://www.buymeacoffee.com/hgomes88
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
-[commits-shield]: https://img.shields.io/github/commit-activity/y/ludeeus/integration_blueprint.svg?style=for-the-badge
-[commits]: https://github.com/ludeeus/integration_blueprint/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/hgomes88/hass-integration-blueprint.svg?style=for-the-badge
+[commits]: https://github.com/hgomes88/hass-integration-blueprint/commits/main
 [hacs]: https://github.com/hacs/integration
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [discord]: https://discord.gg/Qa5fW2R
@@ -53,7 +53,7 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 [exampleimg]: example.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-[license-shield]: https://img.shields.io/github/license/ludeeus/integration_blueprint.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-Joakim%20Sørensen%20%40ludeeus-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/ludeeus/integration_blueprint.svg?style=for-the-badge
-[releases]: https://github.com/ludeeus/integration_blueprint/releases
+[license-shield]: https://img.shields.io/github/license/hgomes88/hass-integration-blueprint.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-Hugo%20Gomes%20%40hgomes88-blue.svg?style=for-the-badge
+[releases-shield]: https://img.shields.io/github/release/hgomes88/hass-integration-blueprint.svg?style=for-the-badge
+[releases]: https://github.com/hgomes88/hass-integration-blueprint/releases
